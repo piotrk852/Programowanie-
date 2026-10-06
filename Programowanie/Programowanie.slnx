@@ -3,5 +3,7 @@
   <Folder Name="/C#/01.Console/">
     <Project Path="ConsoleApp/ConsoleApp.csproj" />
   </Folder>
-  <Folder Name="/C#/02.ValueTypes/" />
+  <Folder Name="/C#/02.ValueTypes/">
+    <Project Path="ValueTypesConsoleApp/ValueTypesConsoleApp.csproj" Id="b471fd11-3417-4881-b23e-1336de237f86" />
+  </Folder>
 </Solution>
