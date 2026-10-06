@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="ConsoleApp/ConsoleApp.csproj" />
-  <Project Path="SecondConsoleApp/SecondConsoleApp.csproj" Id="64696e9b-e37e-4c9e-b63a-f877bae1ca40" />
+  <Folder Name="/C#/" />
+  <Folder Name="/C#/01.Console/">
+    <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/C#/02.ValueTypes/" />
 </Solution>
