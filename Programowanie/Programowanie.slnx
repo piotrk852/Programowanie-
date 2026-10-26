@@ -6,4 +6,10 @@
   <Folder Name="/C#/02.ValueTypes/">
     <Project Path="ValueTypesConsoleApp/ValueTypesConsoleApp.csproj" Id="b471fd11-3417-4881-b23e-1336de237f86" />
   </Folder>
+  <Folder Name="/C#/03.Reference types/">
+    <Project Path="ReferenceTypes/ReferenceTypes.csproj" Id="8dec39b2-c3c6-45a8-a164-e63fe5afa0c7" />
+  </Folder>
+  <Folder Name="/C#/04.Object/">
+    <Project Path="Program/ObjectConsoleApp.csproj" Id="4283b5fe-f109-487d-bc00-522ea22d85ef" />
+  </Folder>
 </Solution>
