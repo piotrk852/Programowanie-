@@ -12,4 +12,7 @@
   <Folder Name="/C#/04.Object/">
     <Project Path="Program/ObjectConsoleApp.csproj" Id="4283b5fe-f109-487d-bc00-522ea22d85ef" />
   </Folder>
+  <Folder Name="/C#/05.Zadania/">
+    <Project Path="PrinterTaskConsoleApp/PrinterTaskConsoleApp.csproj" Id="891b4ec8-2415-42e1-b680-526e5497831c" />
+  </Folder>
 </Solution>
