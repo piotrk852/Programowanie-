@@ -15,4 +15,7 @@
   <Folder Name="/C#/05.Zadania/">
     <Project Path="PrinterTaskConsoleApp/PrinterTaskConsoleApp.csproj" Id="891b4ec8-2415-42e1-b680-526e5497831c" />
   </Folder>
+  <Folder Name="/C#/06.Polymorphism/">
+    <Project Path="PolymorphismConsoleApp/PolymorphismConsoleApp.csproj" Id="1027748e-ee3d-487d-ba8e-cfb067567148" />
+  </Folder>
 </Solution>
