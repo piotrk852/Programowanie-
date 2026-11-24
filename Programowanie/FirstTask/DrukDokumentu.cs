@@ -15,10 +15,10 @@ namespace FirstTask
         }
         
 
-        public override int ObliczCzasRealizacji()
+        public override double ObliczCzasRealizacji()
         {
             double CzasRealizacji = Math.Ceiling(LiczbaSztuk / 20.0);
-            return (int)CzasRealizacji;
+            return CzasRealizacji;
         }
     }
     

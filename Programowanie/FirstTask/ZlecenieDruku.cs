@@ -19,11 +19,6 @@ namespace FirstTask
           
         }
 
-       
-
-
-
-
 
         public virtual decimal ObliczKoszt()
         {
@@ -31,7 +26,14 @@ namespace FirstTask
                
         }
 
-        public abstract int ObliczCzasRealizacji();
-        
+        public abstract double ObliczCzasRealizacji();
+
+        public void WyswietlPodsumowanie(ZlecenieDruku zlecenie)
+        {
+            Console.WriteLine($"Numer zlecenia: {zlecenie.Numer}");
+            Console.WriteLine($"Wynik Kosztu: {zlecenie.ObliczKoszt()}");
+            Console.WriteLine($"Wynik Realizacji: {zlecenie.ObliczCzasRealizacji()}");
+        }
     }
+
 }
