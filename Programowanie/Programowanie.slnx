@@ -12,10 +12,14 @@
   <Folder Name="/C#/04.Object/">
     <Project Path="Program/ObjectConsoleApp.csproj" Id="4283b5fe-f109-487d-bc00-522ea22d85ef" />
   </Folder>
-  <Folder Name="/C#/05.Zadania/">
+  <Folder Name="/C#/05.Tasks/">
     <Project Path="PrinterTaskConsoleApp/PrinterTaskConsoleApp.csproj" Id="891b4ec8-2415-42e1-b680-526e5497831c" />
   </Folder>
   <Folder Name="/C#/06.Polymorphism/">
     <Project Path="PolymorphismConsoleApp/PolymorphismConsoleApp.csproj" Id="1027748e-ee3d-487d-ba8e-cfb067567148" />
+  </Folder>
+  <Folder Name="/C#/07.Task/">
+    <Project Path="FirstTask/FirstTask.csproj" Id="19f6758d-ba4b-4a02-aca8-3ea61ff9f3ee" />
+    <Project Path="SecondTask/SecondTask.csproj" Id="0b9e8c89-9c21-4807-b659-a4963d1eec6e" />
   </Folder>
 </Solution>
